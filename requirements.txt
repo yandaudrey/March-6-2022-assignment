@@ -1,6 +1,3 @@
 pandas
-dash
-dash_cytoscape
-jupyter_dash
-networkx
-matplotlib
+requests 
+BeautifulSoup 
