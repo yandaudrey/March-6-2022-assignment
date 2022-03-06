@@ -1,7 +1,8 @@
 pandas
 dash
 dash_cytoscape
-html, dcc
+html
+dcc
 Input, Output
 JupyterDash
 _send_jupyter_config_comm_request
