@@ -1,12 +1,6 @@
 pandas
 dash
 dash_cytoscape
-html
-Input
-Output
-JupyterDash
-dash
+jupyter_dash
 networkx
-matplotlib.pyplot
-girvan_newman
-greedy_modularity_communities
+matplotlib
