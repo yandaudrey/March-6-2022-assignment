@@ -2,11 +2,9 @@ pandas
 dash
 dash_cytoscape
 html
-dcc
 Input
 Output
 JupyterDash
-send_jupyter_config_comm_request
 dash
 networkx
 matplotlib.pyplot
