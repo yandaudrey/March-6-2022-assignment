@@ -1,0 +1,12 @@
+pandas
+dash
+dash_cytoscape
+html, dcc
+Input, Output
+JupyterDash
+_send_jupyter_config_comm_request
+dash
+networkx
+matplotlib.pyplot
+girvan_newman
+greedy_modularity_communities
