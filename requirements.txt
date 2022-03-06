@@ -3,7 +3,8 @@ dash
 dash_cytoscape
 html
 dcc
-Input, Output
+Input
+Output
 JupyterDash
 _send_jupyter_config_comm_request
 dash
